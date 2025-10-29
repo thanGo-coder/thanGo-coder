@@ -65,6 +65,8 @@ Practicing fundamental HTML, CSS, and JavaScript to build simple, interactive we
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+
+
 <a href="https://github.com/thango-coder/my-first-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thango-coder&repo=my-first-website&theme=dracula&hide_border=true" width="100%" />
 </a>
@@ -72,3 +74,9 @@ Practicing fundamental HTML, CSS, and JavaScript to build simple, interactive we
 </td>
 
 </tr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thango-coder/thango-coder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thango-coder/thango-coder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thango-coder/thango-coder/output/pacman-contribution-graph.svg">
+</picture>
